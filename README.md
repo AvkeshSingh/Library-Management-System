@@ -1,6 +1,5 @@
 # Library-Management-System
 
-
 /*creating new database with the name Lib_mngmt_system*/
 
 create database lib_mngmt_system
